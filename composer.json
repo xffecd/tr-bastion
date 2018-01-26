@@ -9,7 +9,6 @@
         "php": ">=5.6.0",
         "xffecd/tr-common": "@dev"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"Tr\\Bastion\\": "src/"}
     }
