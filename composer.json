@@ -7,7 +7,7 @@
     "authors": [],
     "require": {
         "php": ">=5.6.0",
-        "xffecd/tr-common": "@dev"
+        "xffecd/tr-common": "1.*"
     },
     "autoload": {
         "psr-4": {"Tr\\Bastion\\": "src/"}
