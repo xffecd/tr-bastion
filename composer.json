@@ -10,6 +10,7 @@
         "xffecd/tr-common": "1.*"
     },
     "autoload": {
+        "files": ["src/helper.php"],
         "psr-4": {"Tr\\Bastion\\": "src/"}
     }
 }
