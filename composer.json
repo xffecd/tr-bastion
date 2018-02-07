@@ -7,7 +7,11 @@
     "authors": [],
     "require": {
         "php": ">=5.6.0",
-        "xffecd/tr-common": "1.*"
+        "xffecd/tr-common": "1.*",
+        "monolog/monolog": "1.*",
+        "doctrine/dbal": "^2.5",
+        "doctrine/cache": "^1.6",
+        "respect/validation": "^1"
     },
     "autoload": {
         "files": ["src/helper.php"],
